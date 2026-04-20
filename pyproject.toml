@@ -7,7 +7,7 @@ name = "sensirion_i2c_sen69c"
 description = "I2C driver for the Sensirion SEN69C sensor family"
 
 readme = "README.md"
-version =  "0.1.0"
+version =  "1.0.0"
 requires-python = ">=3.8,<4.0"
 
 authors = [
